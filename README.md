@@ -1,4 +1,4 @@
-## Pizza-Siparis-Sistemi
+## Pizza Ordering System
 
 Berksu Ertuğrul
 
