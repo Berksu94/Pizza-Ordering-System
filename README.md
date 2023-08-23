@@ -1,7 +1,5 @@
 ## Pizza Ordering System
 
-Berksu Ertuğrul
+Global AI Hub-Akbank Bootcamp project
 
-Global AI Hub-Akbank Bootcamp projesi
-
-Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle başlar. İkinci aşama olarak seçtikleri sos ve pizzayı seçtikten sonra ödemeye kısmına geçiş yaparlar. Kullanıcılar ödemelerini kredi kartı ile yapacaktır. Her pizzanın bir açıklaması ve fiyatı vardır.
+The system starts with users choosing the pizza from the menu and the sauce they want. After choosing the sauce and pizza they chose as the second stage, they move on to the payment part. Users will pay by credit card. Each pizza has a description and price.
